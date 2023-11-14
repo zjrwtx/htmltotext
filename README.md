@@ -42,6 +42,11 @@ pip install -r requirements.txt
 
 ## 示例
 
+![image](https://github.com/zjrwtx/htmltotext/assets/86822589/7c951f9e-98f1-40bd-9851-4ba51ed44222)
+
+
+
+![image](https://github.com/zjrwtx/htmltotext/assets/86822589/9451b805-e540-4833-baae-0037b21e308e)
 
 
 ## 自定义
